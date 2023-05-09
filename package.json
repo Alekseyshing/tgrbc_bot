@@ -1,0 +1,16 @@
+{
+  "name": "rbc-bot",
+  "version": "1.0.0",
+  "description": "bot for rbc ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AlekseyShingarev",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.61.0",
+    "puppeteer": "^20.1.1"
+  }
+}
